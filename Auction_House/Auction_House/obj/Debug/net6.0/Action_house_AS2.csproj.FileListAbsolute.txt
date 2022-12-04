@@ -1,0 +1,135 @@
+D:/Action_house_AS2_9/bin/Debug/net6.0/Action_house_AS2.exe
+D:/Action_house_AS2_9/bin/Debug/net6.0/Action_house_AS2.deps.json
+D:/Action_house_AS2_9/bin/Debug/net6.0/Action_house_AS2.runtimeconfig.json
+D:/Action_house_AS2_9/bin/Debug/net6.0/Action_house_AS2.dll
+D:/Action_house_AS2_9/bin/Debug/net6.0/Action_house_AS2.pdb
+D:/Action_house_AS2_9/obj/Debug/net6.0/Action_house_AS2.csproj.AssemblyReference.cache
+D:/Action_house_AS2_9/obj/Debug/net6.0/Action_house_AS2.GeneratedMSBuildEditorConfig.editorconfig
+D:/Action_house_AS2_9/obj/Debug/net6.0/Action_house_AS2.AssemblyInfoInputs.cache
+D:/Action_house_AS2_9/obj/Debug/net6.0/Action_house_AS2.AssemblyInfo.cs
+D:/Action_house_AS2_9/obj/Debug/net6.0/Action_house_AS2.csproj.CoreCompileInputs.cache
+D:/Action_house_AS2_9/obj/Debug/net6.0/Action_house_AS2.dll
+D:/Action_house_AS2_9/obj/Debug/net6.0/refint/Action_house_AS2.dll
+D:/Action_house_AS2_9/obj/Debug/net6.0/Action_house_AS2.pdb
+D:/Action_house_AS2_9/obj/Debug/net6.0/Action_house_AS2.genruntimeconfig.cache
+D:/Action_house_AS2_9/obj/Debug/net6.0/ref/Action_house_AS2.dll
+/media/darcie/HP x796w/Action_house_AS2_9/bin/Debug/net6.0/Action_house_AS2
+/media/darcie/HP x796w/Action_house_AS2_9/bin/Debug/net6.0/Action_house_AS2.deps.json
+/media/darcie/HP x796w/Action_house_AS2_9/bin/Debug/net6.0/Action_house_AS2.runtimeconfig.json
+/media/darcie/HP x796w/Action_house_AS2_9/bin/Debug/net6.0/Action_house_AS2.dll
+/media/darcie/HP x796w/Action_house_AS2_9/bin/Debug/net6.0/Action_house_AS2.pdb
+/media/darcie/HP x796w/Action_house_AS2_9/obj/Debug/net6.0/Action_house_AS2.csproj.AssemblyReference.cache
+/media/darcie/HP x796w/Action_house_AS2_9/obj/Debug/net6.0/Action_house_AS2.GeneratedMSBuildEditorConfig.editorconfig
+/media/darcie/HP x796w/Action_house_AS2_9/obj/Debug/net6.0/Action_house_AS2.AssemblyInfoInputs.cache
+/media/darcie/HP x796w/Action_house_AS2_9/obj/Debug/net6.0/Action_house_AS2.AssemblyInfo.cs
+/media/darcie/HP x796w/Action_house_AS2_9/obj/Debug/net6.0/Action_house_AS2.csproj.CoreCompileInputs.cache
+/media/darcie/HP x796w/Action_house_AS2_9/obj/Debug/net6.0/Action_house_AS2.dll
+/media/darcie/HP x796w/Action_house_AS2_9/obj/Debug/net6.0/refint/Action_house_AS2.dll
+/media/darcie/HP x796w/Action_house_AS2_9/obj/Debug/net6.0/Action_house_AS2.pdb
+/media/darcie/HP x796w/Action_house_AS2_9/obj/Debug/net6.0/Action_house_AS2.genruntimeconfig.cache
+/media/darcie/HP x796w/Action_house_AS2_9/obj/Debug/net6.0/ref/Action_house_AS2.dll
+/home/darcie/Documents/CAB202/Action_house_AS2_10/bin/Debug/net6.0/Action_house_AS2
+/home/darcie/Documents/CAB202/Action_house_AS2_10/bin/Debug/net6.0/Action_house_AS2.deps.json
+/home/darcie/Documents/CAB202/Action_house_AS2_10/bin/Debug/net6.0/Action_house_AS2.runtimeconfig.json
+/home/darcie/Documents/CAB202/Action_house_AS2_10/bin/Debug/net6.0/Action_house_AS2.dll
+/home/darcie/Documents/CAB202/Action_house_AS2_10/bin/Debug/net6.0/Action_house_AS2.pdb
+/home/darcie/Documents/CAB202/Action_house_AS2_10/obj/Debug/net6.0/Action_house_AS2.csproj.AssemblyReference.cache
+/home/darcie/Documents/CAB202/Action_house_AS2_10/obj/Debug/net6.0/Action_house_AS2.GeneratedMSBuildEditorConfig.editorconfig
+/home/darcie/Documents/CAB202/Action_house_AS2_10/obj/Debug/net6.0/Action_house_AS2.AssemblyInfoInputs.cache
+/home/darcie/Documents/CAB202/Action_house_AS2_10/obj/Debug/net6.0/Action_house_AS2.AssemblyInfo.cs
+/home/darcie/Documents/CAB202/Action_house_AS2_10/obj/Debug/net6.0/Action_house_AS2.csproj.CoreCompileInputs.cache
+/home/darcie/Documents/CAB202/Action_house_AS2_10/obj/Debug/net6.0/Action_house_AS2.dll
+/home/darcie/Documents/CAB202/Action_house_AS2_10/obj/Debug/net6.0/refint/Action_house_AS2.dll
+/home/darcie/Documents/CAB202/Action_house_AS2_10/obj/Debug/net6.0/Action_house_AS2.pdb
+/home/darcie/Documents/CAB202/Action_house_AS2_10/obj/Debug/net6.0/Action_house_AS2.genruntimeconfig.cache
+/home/darcie/Documents/CAB202/Action_house_AS2_10/obj/Debug/net6.0/ref/Action_house_AS2.dll
+D:/Action_house_AS2_10/bin/Debug/net6.0/Action_house_AS2.exe
+D:/Action_house_AS2_10/bin/Debug/net6.0/Action_house_AS2.deps.json
+D:/Action_house_AS2_10/bin/Debug/net6.0/Action_house_AS2.runtimeconfig.json
+D:/Action_house_AS2_10/bin/Debug/net6.0/Action_house_AS2.dll
+D:/Action_house_AS2_10/bin/Debug/net6.0/Action_house_AS2.pdb
+D:/Action_house_AS2_10/obj/Debug/net6.0/Action_house_AS2.csproj.AssemblyReference.cache
+D:/Action_house_AS2_10/obj/Debug/net6.0/Action_house_AS2.GeneratedMSBuildEditorConfig.editorconfig
+D:/Action_house_AS2_10/obj/Debug/net6.0/Action_house_AS2.AssemblyInfoInputs.cache
+D:/Action_house_AS2_10/obj/Debug/net6.0/Action_house_AS2.AssemblyInfo.cs
+D:/Action_house_AS2_10/obj/Debug/net6.0/Action_house_AS2.csproj.CoreCompileInputs.cache
+D:/Action_house_AS2_10/obj/Debug/net6.0/Action_house_AS2.dll
+D:/Action_house_AS2_10/obj/Debug/net6.0/refint/Action_house_AS2.dll
+D:/Action_house_AS2_10/obj/Debug/net6.0/Action_house_AS2.pdb
+D:/Action_house_AS2_10/obj/Debug/net6.0/Action_house_AS2.genruntimeconfig.cache
+D:/Action_house_AS2_10/obj/Debug/net6.0/ref/Action_house_AS2.dll
+/media/darcie/HP x796w/Action_house_AS2_10/bin/Debug/net6.0/Action_house_AS2
+/media/darcie/HP x796w/Action_house_AS2_10/bin/Debug/net6.0/Action_house_AS2.deps.json
+/media/darcie/HP x796w/Action_house_AS2_10/bin/Debug/net6.0/Action_house_AS2.runtimeconfig.json
+/media/darcie/HP x796w/Action_house_AS2_10/bin/Debug/net6.0/Action_house_AS2.dll
+/media/darcie/HP x796w/Action_house_AS2_10/bin/Debug/net6.0/Action_house_AS2.pdb
+/media/darcie/HP x796w/Action_house_AS2_10/obj/Debug/net6.0/Action_house_AS2.csproj.AssemblyReference.cache
+/media/darcie/HP x796w/Action_house_AS2_10/obj/Debug/net6.0/Action_house_AS2.GeneratedMSBuildEditorConfig.editorconfig
+/media/darcie/HP x796w/Action_house_AS2_10/obj/Debug/net6.0/Action_house_AS2.AssemblyInfoInputs.cache
+/media/darcie/HP x796w/Action_house_AS2_10/obj/Debug/net6.0/Action_house_AS2.AssemblyInfo.cs
+/media/darcie/HP x796w/Action_house_AS2_10/obj/Debug/net6.0/Action_house_AS2.csproj.CoreCompileInputs.cache
+/media/darcie/HP x796w/Action_house_AS2_10/obj/Debug/net6.0/Action_house_AS2.dll
+/media/darcie/HP x796w/Action_house_AS2_10/obj/Debug/net6.0/refint/Action_house_AS2.dll
+/media/darcie/HP x796w/Action_house_AS2_10/obj/Debug/net6.0/Action_house_AS2.pdb
+/media/darcie/HP x796w/Action_house_AS2_10/obj/Debug/net6.0/Action_house_AS2.genruntimeconfig.cache
+/media/darcie/HP x796w/Action_house_AS2_10/obj/Debug/net6.0/ref/Action_house_AS2.dll
+/home/darcie/Documents/Auction_House/bin/Debug/net6.0/Action_house_AS2
+/home/darcie/Documents/Auction_House/bin/Debug/net6.0/Action_house_AS2.deps.json
+/home/darcie/Documents/Auction_House/bin/Debug/net6.0/Action_house_AS2.runtimeconfig.json
+/home/darcie/Documents/Auction_House/bin/Debug/net6.0/Action_house_AS2.dll
+/home/darcie/Documents/Auction_House/bin/Debug/net6.0/Action_house_AS2.pdb
+/home/darcie/Documents/Auction_House/obj/Debug/net6.0/Action_house_AS2.csproj.AssemblyReference.cache
+/home/darcie/Documents/Auction_House/obj/Debug/net6.0/Action_house_AS2.GeneratedMSBuildEditorConfig.editorconfig
+/home/darcie/Documents/Auction_House/obj/Debug/net6.0/Action_house_AS2.AssemblyInfoInputs.cache
+/home/darcie/Documents/Auction_House/obj/Debug/net6.0/Action_house_AS2.AssemblyInfo.cs
+/home/darcie/Documents/Auction_House/obj/Debug/net6.0/Action_house_AS2.csproj.CoreCompileInputs.cache
+/home/darcie/Documents/Auction_House/obj/Debug/net6.0/Action_house_AS2.dll
+/home/darcie/Documents/Auction_House/obj/Debug/net6.0/refint/Action_house_AS2.dll
+/home/darcie/Documents/Auction_House/obj/Debug/net6.0/Action_house_AS2.pdb
+/home/darcie/Documents/Auction_House/obj/Debug/net6.0/Action_house_AS2.genruntimeconfig.cache
+/home/darcie/Documents/Auction_House/obj/Debug/net6.0/ref/Action_house_AS2.dll
+/home/darcie/Documents/Auction_house_Friday/Auction_House/bin/Debug/net6.0/Action_house_AS2
+/home/darcie/Documents/Auction_house_Friday/Auction_House/bin/Debug/net6.0/Action_house_AS2.deps.json
+/home/darcie/Documents/Auction_house_Friday/Auction_House/bin/Debug/net6.0/Action_house_AS2.runtimeconfig.json
+/home/darcie/Documents/Auction_house_Friday/Auction_House/bin/Debug/net6.0/Action_house_AS2.dll
+/home/darcie/Documents/Auction_house_Friday/Auction_House/bin/Debug/net6.0/Action_house_AS2.pdb
+/home/darcie/Documents/Auction_house_Friday/Auction_House/obj/Debug/net6.0/Action_house_AS2.csproj.AssemblyReference.cache
+/home/darcie/Documents/Auction_house_Friday/Auction_House/obj/Debug/net6.0/Action_house_AS2.GeneratedMSBuildEditorConfig.editorconfig
+/home/darcie/Documents/Auction_house_Friday/Auction_House/obj/Debug/net6.0/Action_house_AS2.AssemblyInfoInputs.cache
+/home/darcie/Documents/Auction_house_Friday/Auction_House/obj/Debug/net6.0/Action_house_AS2.AssemblyInfo.cs
+/home/darcie/Documents/Auction_house_Friday/Auction_House/obj/Debug/net6.0/Action_house_AS2.csproj.CoreCompileInputs.cache
+/home/darcie/Documents/Auction_house_Friday/Auction_House/obj/Debug/net6.0/Action_house_AS2.dll
+/home/darcie/Documents/Auction_house_Friday/Auction_House/obj/Debug/net6.0/refint/Action_house_AS2.dll
+/home/darcie/Documents/Auction_house_Friday/Auction_House/obj/Debug/net6.0/Action_house_AS2.pdb
+/home/darcie/Documents/Auction_house_Friday/Auction_House/obj/Debug/net6.0/Action_house_AS2.genruntimeconfig.cache
+/home/darcie/Documents/Auction_house_Friday/Auction_House/obj/Debug/net6.0/ref/Action_house_AS2.dll
+C:/Users/darci/Documents/CAB201/Auction_house_Friday_desktop/Auction_House/bin/Debug/net6.0/Action_house_AS2.exe
+C:/Users/darci/Documents/CAB201/Auction_house_Friday_desktop/Auction_House/bin/Debug/net6.0/Action_house_AS2.deps.json
+C:/Users/darci/Documents/CAB201/Auction_house_Friday_desktop/Auction_House/bin/Debug/net6.0/Action_house_AS2.runtimeconfig.json
+C:/Users/darci/Documents/CAB201/Auction_house_Friday_desktop/Auction_House/bin/Debug/net6.0/Action_house_AS2.dll
+C:/Users/darci/Documents/CAB201/Auction_house_Friday_desktop/Auction_House/bin/Debug/net6.0/Action_house_AS2.pdb
+C:/Users/darci/Documents/CAB201/Auction_house_Friday_desktop/Auction_House/obj/Debug/net6.0/Action_house_AS2.csproj.AssemblyReference.cache
+C:/Users/darci/Documents/CAB201/Auction_house_Friday_desktop/Auction_House/obj/Debug/net6.0/Action_house_AS2.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/darci/Documents/CAB201/Auction_house_Friday_desktop/Auction_House/obj/Debug/net6.0/Action_house_AS2.AssemblyInfoInputs.cache
+C:/Users/darci/Documents/CAB201/Auction_house_Friday_desktop/Auction_House/obj/Debug/net6.0/Action_house_AS2.AssemblyInfo.cs
+C:/Users/darci/Documents/CAB201/Auction_house_Friday_desktop/Auction_House/obj/Debug/net6.0/Action_house_AS2.csproj.CoreCompileInputs.cache
+C:/Users/darci/Documents/CAB201/Auction_house_Friday_desktop/Auction_House/obj/Debug/net6.0/Action_house_AS2.dll
+C:/Users/darci/Documents/CAB201/Auction_house_Friday_desktop/Auction_House/obj/Debug/net6.0/refint/Action_house_AS2.dll
+C:/Users/darci/Documents/CAB201/Auction_house_Friday_desktop/Auction_House/obj/Debug/net6.0/Action_house_AS2.pdb
+C:/Users/darci/Documents/CAB201/Auction_house_Friday_desktop/Auction_House/obj/Debug/net6.0/Action_house_AS2.genruntimeconfig.cache
+C:/Users/darci/Documents/CAB201/Auction_house_Friday_desktop/Auction_House/obj/Debug/net6.0/ref/Action_house_AS2.dll
+/home/darcie/Documents/Github_projs/Auction_House/Auction_House/bin/Debug/net6.0/Action_house_AS2
+/home/darcie/Documents/Github_projs/Auction_House/Auction_House/bin/Debug/net6.0/Action_house_AS2.deps.json
+/home/darcie/Documents/Github_projs/Auction_House/Auction_House/bin/Debug/net6.0/Action_house_AS2.runtimeconfig.json
+/home/darcie/Documents/Github_projs/Auction_House/Auction_House/bin/Debug/net6.0/Action_house_AS2.dll
+/home/darcie/Documents/Github_projs/Auction_House/Auction_House/bin/Debug/net6.0/Action_house_AS2.pdb
+/home/darcie/Documents/Github_projs/Auction_House/Auction_House/obj/Debug/net6.0/Action_house_AS2.csproj.AssemblyReference.cache
+/home/darcie/Documents/Github_projs/Auction_House/Auction_House/obj/Debug/net6.0/Action_house_AS2.GeneratedMSBuildEditorConfig.editorconfig
+/home/darcie/Documents/Github_projs/Auction_House/Auction_House/obj/Debug/net6.0/Action_house_AS2.AssemblyInfoInputs.cache
+/home/darcie/Documents/Github_projs/Auction_House/Auction_House/obj/Debug/net6.0/Action_house_AS2.AssemblyInfo.cs
+/home/darcie/Documents/Github_projs/Auction_House/Auction_House/obj/Debug/net6.0/Action_house_AS2.csproj.CoreCompileInputs.cache
+/home/darcie/Documents/Github_projs/Auction_House/Auction_House/obj/Debug/net6.0/Action_house_AS2.dll
+/home/darcie/Documents/Github_projs/Auction_House/Auction_House/obj/Debug/net6.0/refint/Action_house_AS2.dll
+/home/darcie/Documents/Github_projs/Auction_House/Auction_House/obj/Debug/net6.0/Action_house_AS2.pdb
+/home/darcie/Documents/Github_projs/Auction_House/Auction_House/obj/Debug/net6.0/Action_house_AS2.genruntimeconfig.cache
+/home/darcie/Documents/Github_projs/Auction_House/Auction_House/obj/Debug/net6.0/ref/Action_house_AS2.dll
